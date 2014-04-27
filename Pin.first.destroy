@@ -1,0 +1,10 @@
+Running `rails console -` attached to terminal... up, run.3609
+Loading production environment (Rails 4.0.2)
+/app/vendor/ruby-2.0.0/lib/ruby/2.0.0/irb/init.rb:216:in `parse_opts': Unrecognized switch: - (IRB::UnrecognizedSwitch)
+	from /app/vendor/ruby-2.0.0/lib/ruby/2.0.0/irb/init.rb:18:in `setup'
+	from /app/vendor/ruby-2.0.0/lib/ruby/2.0.0/irb.rb:380:in `start'
+	from /app/vendor/bundle/ruby/2.0.0/gems/railties-4.0.2/lib/rails/commands/console.rb:90:in `start'
+	from /app/vendor/bundle/ruby/2.0.0/gems/railties-4.0.2/lib/rails/commands/console.rb:9:in `start'
+	from /app/vendor/bundle/ruby/2.0.0/gems/railties-4.0.2/lib/rails/commands.rb:62:in `<top (required)>'
+	from /app/bin/rails:4:in `require'
+	from /app/bin/rails:4:in `<main>'
